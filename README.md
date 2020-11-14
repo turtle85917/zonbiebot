@@ -2,6 +2,11 @@
 
 **커맨드 수가 80~100 정도 있어서 파일이 좀 많음.**
 
+### GET BOT TOKEN
+```
+go "https://discord.com/developers/applications/"
+```
+
 ### Copy Project
 ```
 md zonbi
@@ -12,8 +17,8 @@ git clone https://github.com/turtle85917/zonbiebot
 ### Edit
 ```
 cd zonbi
-index.js에서 client.login("...") <- 토큰 수정.
-index.py에서 client.run("...") <- 토큰 수정.
+index.js에서 client.login("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
+index.py에서 client.run("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
 ```
 
 ### Run
