@@ -1,16 +1,16 @@
-# ZonbiBot
+# ZonbieBot
 
 **커맨드 수가 80~100 정도 있어서 파일이 좀 많음.**
 
 ### GET BOT TOKEN
-```
-go "https://discord.com/developers/applications/"
+```html
+"https://discord.com/developers/applications/"
 ```
 
 ### Copy Project
 ```
-md zonbi
-cd zonbi
+md zonbie
+cd zonbie
 git clone https://github.com/turtle85917/zonbiebot
 ```
 
@@ -24,7 +24,7 @@ index.py에서 client.run("BotToken") - BotToken은 자기 봇 토큰으로 바�
 
 ### Run
 ```
-cd zonbi
+cd zonbie
 Js File - "node ." or "node index" or "node index.js"
 Py File - "py index" or "python index" or "py index.py" or "python index.py"
 ```
