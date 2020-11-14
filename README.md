@@ -2,7 +2,7 @@
 
 **커맨드 수가 80~100 정도 있어서 파일이 좀 많음.**
 
-### Copy File
+### Copy Project
 ```
 md zonbi
 cd zonbi
@@ -36,4 +36,4 @@ Py File - "py index" or "python index" or "py index.py" or "python index.py"
 | mswgen     | mswgenbot-v2          | https://github.com/mswgen/mswgenbot-v2 |
 | dugom0k    | DUGOM BOT             | https://github.com/piese1028/DUGOM_BOT |
 
-두곰봇 소스의 원래 주인은 dugom0kr인데, 누가 포크한 것 같다..
+**~~두곰봇 소스의 원래 주인은 dugom0kr인데, 누가 포크한 것 같다..~~**
