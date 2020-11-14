@@ -802,4 +802,4 @@ def tierCompare(solorank, flexrank):
     else:
         return 2
 
-client.run("NzI4OTQ5MzU4ODc1Mzc3Njk1.XwaU0A.CfUdOrV5ibvwDHZXeEEcvdn73nc")
+client.run("BotToken")
