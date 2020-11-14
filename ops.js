@@ -10,7 +10,7 @@ const table = (new(require("ascii-table"))).setHeading("Command", "Status"),
 */
 
 module.exports = {
-    ownerID: "674877162557407242",
+    ownerID: "ownerID",
     prefix: "존비야",
     MyBot: new MyBot("KoreanBotToken"),
     formatTime: time => {
