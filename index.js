@@ -10,7 +10,7 @@ Array.prototype.shuffle = function() {
     return this.sort(() => Math.random() - 0.5);
 }
 
-client.login("NzI4OTQ5MzU4ODc1Mzc3Njk1.XwaU0A.CfUdOrV5ibvwDHZXeEEcvdn73nc")
+client.login("BotToken")
 
 client.commands = new Collection();
 client.aliases = new Collection();
