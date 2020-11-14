@@ -12,7 +12,7 @@ const table = (new(require("ascii-table"))).setHeading("Command", "Status"),
 module.exports = {
     ownerID: "674877162557407242",
     prefix: "존비야",
-    MyBot: new MyBot("eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjcyODk0OTM1ODg3NTM3NzY5NSIsImlhdCI6MTYwMTI5NjcxNywiZXhwIjoxNjMyODU0MzE3fQ.admS5jXiYkXDVclnbYjxUMIv9F_dijdX3QwgEeyYfiJVXeIIHx43ZMMIsGOq4xowafVZHQHLbiKuKq1G9ef-L7DdxinmAJSVrLBJR14TmMriy66cLti1s7ylfEaljPoq6Y-FReV83bHmVeCox8JXLemdWoJ-mXvJ21C-Ym0w-_g"),
+    MyBot: new MyBot("KoreanBotToken"),
     formatTime: time => {
         const date = new Date(time);
         return `${date.getFullYear()}년 ${date.getMonth() + 1}월 ${date.getDate()}일 ${date.getHours()}시 ${date.getMinutes()}분 ${date.getSeconds()}초`
