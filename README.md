@@ -37,10 +37,10 @@ Py File - "py index" or "python index" or "py index.py" or "python index.py"
 ### ❗ 참고 및 사용한 오픈소스
 | OWNER      | NAME                  | COPY_USER | URL                                    |
 | ---------- | --------------------- | ----------|--------------------------------------- |
-| ditto7890  | dittobot              |     -     | https://github.com/ditto7890/dittobot  |
-| Pneuma714  | Pod                   |     -     | https://github.com/Pneuma714/Pod       |
-| mswgen     | mswgenbot-v2          |     -     | https://github.com/mswgen/mswgenbot-v2 |
-| TheTurkeyDev | Discord-Games       |     -     | https://github.com/TheTurkeyDev/Discord-Games |
-| dugom0k    | DUGOM BOT             | piese1028 | https://github.com/piese1028/DUGOM_BOT |
+| [ditto7890](https://github.com/ditto7890/)  | dittobot              |     -     | https://github.com/ditto7890/dittobot  |
+| [Pneuma714](https://github.com/Pneuma714/)  | Pod                   |     -     | https://github.com/Pneuma714/Pod       |
+| [mswgen](https://github.com/mswgen/)     | mswgenbot-v2          |     -     | https://github.com/mswgen/mswgenbot-v2 |
+| [TheTurkeyDev](https://github.com/TheTurkeyDev/) | Discord-Games       |     -     | https://github.com/TheTurkeyDev/Discord-Games |
+| [dugom0k](https://github.com/dugom0k/)    | DUGOM BOT             | piese1028 | https://github.com/piese1028/DUGOM_BOT |
 
 **~~두곰봇 소스의 원래 주인은 dugom0kr인데, 누가 포크한 것 같다..~~**
