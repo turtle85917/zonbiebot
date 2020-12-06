@@ -8,7 +8,7 @@ from mcstatus import MinecraftServer
 import discord.ext.commands as commands
 import xml.etree.ElementTree as ET
 
-kakao_key = "dc882c632eae47df69726c5b1a87aa4f"
+kakao_key = "kakao_key
 prefix = "존비야"
 client = discord.Client()
 opggsummonersearch = 'https://www.op.gg/summoner/userName='
@@ -16,8 +16,8 @@ r6URL = "https://r6stats.com"
 playerSite = 'https://www.r6stats.com/search/'
 gaming_list = []
 tictactoe = {}
-client_id = "YeOVJk0bK59ryYiRDIiY"
-client_secret = "ZBHDeMCaMe"
+client_id = "clientID
+client_secret = "clientSecret
 GOOGLE_API_KEY = 'AIzaSyDSzYG1Joo4lCEHEWN2YzYwTyIkmrbYIk4'
 
 @client.event
