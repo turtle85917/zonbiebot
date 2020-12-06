@@ -35,12 +35,12 @@ Py File - "py index" or "python index" or "py index.py" or "python index.py"
 파이썬 파일만 실행하면 봇 커맨드 일부가 작동하지 않을 수 있습니다.
 
 ### ❗ 참고 및 사용한 오픈소스
-| OWNER      | NAME                  | URL                                    | COPY_USRE |
-| ---------- | --------------------- | -------------------------------------- |     -     |
-| ditto7890  | dittobot              | https://github.com/ditto7890/dittobot  |     -     |
-| Pneuma714  | Pod                   | https://github.com/Pneuma714/Pod       |     -     |
-| mswgen     | mswgenbot-v2          | https://github.com/mswgen/mswgenbot-v2 |     -     |
-| TheTurkeyDev | Discord-Games          | https://github.com/TheTurkeyDev/Discord-Games |     -     |
-| dugom0k    | DUGOM BOT             | https://github.com/piese1028/DUGOM_BOT |     piese1028     |
+| OWNER      | NAME                  | COPY_USER | URL                                    |
+| ---------- | --------------------- | ----------|--------------------------------------- |
+| ditto7890  | dittobot              |     -     | https://github.com/ditto7890/dittobot  |
+| Pneuma714  | Pod                   |     -     | https://github.com/Pneuma714/Pod       |
+| mswgen     | mswgenbot-v2          |     -     | https://github.com/mswgen/mswgenbot-v2 |
+| TheTurkeyDev | Discord-Games       |     -     | https://github.com/TheTurkeyDev/Discord-Games |
+| dugom0k    | DUGOM BOT             | piese1028 | https://github.com/piese1028/DUGOM_BOT |
 
 **~~두곰봇 소스의 원래 주인은 dugom0kr인데, 누가 포크한 것 같다..~~**
