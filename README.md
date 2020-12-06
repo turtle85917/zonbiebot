@@ -7,13 +7,13 @@
 "https://discord.com/developers/applications/"
 ```
 
-### Copy Project
+### ✂ Copy Project
 ```
 git clone https://github.com/turtle85917/zonbiebot
 cd zonbiebot
 ```
 
-### Edit
+### 📝 Edit
 ```
 cd zonbiebot
 index.js에서 client.login("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
@@ -21,19 +21,19 @@ ops.js에서 prefix는 봇 접두사, ownerID는 봇 주인 id로 바꾸기
 index.py에서 client.run("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
 ```
 
-### Run
+### 🏃‍♂️ Run
 ```
 cd zonbie
 Js File - "node ." or "node index" or "node index.js"
 Py File - "py index" or "python index" or "py index.py" or "python index.py"
 ```
 
-### Warn
+### ⚠ Warn
 자바스크립트 파일만 실행하면 봇 커맨드 일부가 작동하지 않을 수 있습니다.
 
 파이썬 파일만 실행하면 봇 커맨드 일부가 작동하지 않을 수 있습니다.
 
-### 참고 및 사용한 오픈소스
+### ❗ 참고 및 사용한 오픈소스
 | USER       | NAME                  | URL                                    |
 | ---------- | --------------------- | -------------------------------------- |
 | ditto7890  | dittobot              | https://github.com/ditto7890/dittobot  |
