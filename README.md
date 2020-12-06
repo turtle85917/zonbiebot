@@ -15,7 +15,7 @@ cd zonbiebot
 
 ### Edit
 ```
-cd zonbie
+cd zonbiebot
 index.js에서 client.login("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
 ops.js에서 prefix는 봇 접두사, ownerID는 봇 주인 id로 바꾸기
 index.py에서 client.run("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
