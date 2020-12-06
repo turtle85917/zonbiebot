@@ -2,7 +2,7 @@
 
 **커맨드 수가 80~100 정도 있어서 파일이 좀 많음.**
 
-### GET BOT TOKEN
+### 🖥 GET BOT TOKEN
 ```
 "https://discord.com/developers/applications/"
 ```
