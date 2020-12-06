@@ -9,9 +9,8 @@
 
 ### Copy Project
 ```
-md zonbie
-cd zonbie
 git clone https://github.com/turtle85917/zonbiebot
+cd zonbiebot
 ```
 
 ### Edit
