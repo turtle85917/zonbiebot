@@ -2,7 +2,7 @@
 
 **커맨드 수가 80~100 정도 있어서 파일이 좀 많음.**
 
-### 🖥 GET BOT TOKEN
+### 🖥 GET BOT TOKEN, ID, SECRET
 ```
 "https://discord.com/developers/applications/"
 ```
@@ -19,6 +19,7 @@ cd zonbiebot
 index.js에서 client.login("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
 ops.js에서 prefix는 봇 접두사, ownerID는 봇 주인 id로 바꾸기
 index.py에서 client.run("BotToken") - BotToken은 자기 봇 토큰으로 바꾸기
+index.py에서 kakao_key는 카카오 키로 바꾸기
 ```
 
 ### 🏃‍♂️ Run
